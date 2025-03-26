@@ -9,8 +9,8 @@
     "@testing-library/user-event": "^13.5.0",
     "file-saver": "^2.0.5",
     "jspdf": "^3.0.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.2.0",  // Versión estable recomendada
+    "react-dom": "^18.2.0",  // Versión estable recomendada
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
