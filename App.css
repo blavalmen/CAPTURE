@@ -1,0 +1,109 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.patient-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.info-item {
+  margin: 10px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+.inputs select,
+.inputs input {
+  margin: 5px 0;
+  padding: 5px;
+  width: 100%;
+}
+
+.quadrants {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+
+.region-container {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.region-title {
+  font-weight: bold;
+}
+
+.video-upload input {
+  margin: 10px 0;
+}
+
+.export-btn {
+  margin-top: 20px;
+}
+
+button {
+  background-color: #F8B400;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #f59e00;
+}
+
+input[type="file"] {
+  width: auto;
+  margin: 5px;
+}
+
+input[type="text"] {
+  width: 250px;
+}
+
+button {
+  background-color: #f4a261;
+}
+
+button:hover {
+  background-color: #f39c12;
+}
